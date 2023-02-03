@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Ecommerce/static/css/main.e5bacbf9.css",
+    "main.js": "/Ecommerce/static/js/main.bd393667.js",
+    "static/media/input.png": "/Ecommerce/static/media/input.f257bc3c2ce5ae3a57db.png",
+    "static/media/my-account.jpg": "/Ecommerce/static/media/my-account.b60f4f583f3603323573.jpg",
+    "static/media/Medicine.svg": "/Ecommerce/static/media/Medicine.1aedb0410436a16572b1e6f1676f5a95.svg",
+    "static/media/slick.svg": "/Ecommerce/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Ecommerce/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Ecommerce/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Ecommerce/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Ecommerce/index.html",
+    "main.e5bacbf9.css.map": "/Ecommerce/static/css/main.e5bacbf9.css.map",
+    "main.bd393667.js.map": "/Ecommerce/static/js/main.bd393667.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5bacbf9.css",
+    "static/js/main.bd393667.js"
+  ]
+}
